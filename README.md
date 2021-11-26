@@ -6,6 +6,9 @@
 
 현재 파이썬 3.9버전/ 윈도우 환경에서만 정상적인 작동을 보증합니다.
 
+selenium 라이브러리 설치가 필수적입니다.
+
+
 1.같은 파일에 NICO_FILE_LOAD.py와 NICO_AUTO_LOAD.py 파일을 같이 넣기.
 
 2. NICO_FILE_LOAD.py 실행 후 Onetab을 이용하여 추출한 링크 붙여넣기
