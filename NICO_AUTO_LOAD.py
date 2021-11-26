@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 
-driver = webdriver.Chrome(r'C:\Users\dnsxo\Downloads\chromedriver_file\chromedriver.exe')
+driver = webdriver.Chrome(r'여기에 크롬 웹드라이버가 설치된 경로를 입력해주세요.')
 
 
 
